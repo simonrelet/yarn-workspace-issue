@@ -1,0 +1,7 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "devDependencies": {
+    "chalk": "^2.3.0"
+  }
+}
